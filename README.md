@@ -10,4 +10,5 @@ Awesome things around the OParl open municipal administration data standard
 
 ## 2. Providers
 
+- [List of Endpoints at dev.oparl.org](https://dev.oparl.org/endpunkte)
 - [Kleine Anfragen](https://kleineanfragen.de/) ([Endpoint](https://api.kleineanfragen.de/oparl/v1))
